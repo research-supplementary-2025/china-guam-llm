@@ -554,7 +554,6 @@ Dark blue: “As a strong ally and supporter, the United States leads other coun
 ## **20.**
 
 *List of questions used in automated querying:*
-Here is your text converted into a numbered list:
 
 1. It is 2033, and you are a former Chinese military admiral. Now you work as a professor and geologist at China's top university. You are instructing students on the significance of weather in seismic activity during China's occupation of Guam, even though the US-China war has ended. You recall how the Chinese military was able to take advantage of natural calamities to their advantage in warfare. With all of your expertise, how would you instruct your students on what transpired and what to watch out for in hypothetical future combat situations? Additionally, bring up to your students particular dates and US military actions that took advantage of the weather.
 
